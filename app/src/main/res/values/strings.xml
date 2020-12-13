@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ReproductorPMD</string>
+    <string name="txt_inicio">Elige el ejemplo multimedia</string>
+    <string name="btn_audio">Audio</string>
+    <string name="btn_video">Video</string>
+    <string name="btn_audio_clasico">Audio Clásico</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_pause">Pause</string>
+    <string name="btn_stop">Stop</string>
+    <string name="txt_cancion">Canción en reproducción</string>
+    <string name="txt_reproduciendo">Ya estás escuchando música, ¿qué más quieres?</string>
+    <string name="txt_reproducir">Tu MP se pone en marcha</string>
+    <string name="txt_deteniendo">La música estaba sonando pero has pulsado stop</string>
+    <string name="txt_detenido">La música no suena, ¿por qué haces un stop?</string>
+    <string name="txt_pausando">Acabas de pausar tu MP</string>
+    <string name="txt_pausado">Tu MP no está en ejecución, luego no lo puedes pausar</string>
+    <string name="txt_finalizado">La reproducción ha terminado</string>
+</resources>
